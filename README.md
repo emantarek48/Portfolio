@@ -43,5 +43,5 @@ You can reach me via **Email**: [emantarek147@gmail.com)
 ---
 
 ## Live Portfolio
-- **Live Demo:** [Quiz App Live] (https://emantarek48.github.io/Portfolio/)
-Check out the full portfolio online: [Portfolio Live Demo](https://emantarek48.github.io/portfolio/)
+- **Live Demo:** (https://emantarek48.github.io/Portfolio/)
+

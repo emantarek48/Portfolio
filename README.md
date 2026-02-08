@@ -7,7 +7,7 @@ Welcome to my personal portfolio! Here you can find some of the projects I have 
 ## Projects
 
 ### 1. ROMYK
-![ROMYK Screenshot](./Images/ROMYK.png)
+![ROMYK Screenshot](./Images/romyk.png)
 
 A simple and interactive movie search application built with React. Users can search for movies, add them to their watch list, and mark them as watched.
 
@@ -43,5 +43,7 @@ You can reach me via **Email**: [emantarek147@gmail.com)
 ---
 
 ## Live Portfolio
+- **Live Demo:** [Quiz App Live]([(https://emantarek48.github.io/Portfolio/)])
 
+https://emantarek48.github.io/Portfolio/
 Check out the full portfolio online: [Portfolio Live Demo](https://emantarek48.github.io/portfolio/)
